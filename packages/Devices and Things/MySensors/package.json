@@ -1,0 +1,20 @@
+{
+    "author": "Unknown",
+    "version": "v1.0",
+    "title": "Mysensors Controller",
+    "description": "MySensors V2",
+    "published": "2015-03-16T00:00:00Z",
+    "sourcecode": "",
+    "homepage": "http://www.homegenie.it/forum/index.php", 
+    "widgets": [ ],
+    "programs": [
+        { 
+            "file": "mysensors.hgx",
+            "name":"MySensors Controller",
+            "description": "MySensors Remote Controller",
+            "uid": "100509",
+            "group": "Devices and Things" 
+        }
+    ],
+    "interfaces": [ ]
+}
