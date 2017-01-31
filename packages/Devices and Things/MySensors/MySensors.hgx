@@ -7,7 +7,7 @@
   .AddOption("DeviceType", "Serial", "Device Type (Serial, Ethernet)", "text")
   .AddOption("IPAddress", "127.0.0.1", "Ethernet IP address", "text")
   .AddOption("TCPPort", "5003", "Ethernet Port", "text")
-  .AddOption("COMPort", "/dev/ttyUSB0", "Serial Port", "text")
+  .AddOption("COMPort", "/dev/ttyACM0", "Serial Port", "text")
   .AddOption("BaudRate", "115200", "Serial Baud rate", "text")
   .AddOption("InclusionMode", "True", "Inclusion Mode always on (True/False)", "text")
   .AddOption("GroupSubDevices", "True", "Group Subdevices with ID &lt; 15 (True/False)", "text")  
